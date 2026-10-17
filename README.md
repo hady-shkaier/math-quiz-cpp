@@ -34,7 +34,7 @@ An interactive, customizable math quiz built with C++. Generate random arithmeti
 **1. Clone the repository**
 
 ```bash
-git clone git clone https://github.com/hady-shkaier/math-game-cpp.git
+git clone https://github.com/hady-shkaier/math-quiz-cpp
 cd math-game-cpp
 
 ```
