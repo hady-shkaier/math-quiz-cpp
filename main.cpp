@@ -257,7 +257,7 @@ void printQuizResult(const stQuiz &quiz)
     cout << "\n______________________________________\n\n";
     cout << "Number of Questions     : " << quiz.TotalQuestion << endl;
     cout << "Questions Level         : " << getQuestionsLevel(quiz.QuestionLevel) << endl;
-    cout << "Operation Type                  : " << getOperationSymbol(quiz.OperationType) << endl;
+    cout << "Operation Type          : " << getOperationSymbol(quiz.OperationType) << endl;
     cout << "Number Of Right Answers : " << quiz.RightAnswerCount << endl;
     cout << "Number Of Wrong Answers : " << quiz.WrongAnswerCount << endl;
     cout << "\n______________________________________\n";
